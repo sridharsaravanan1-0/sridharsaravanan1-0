@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/sridharsaravanan1-0?tab=repositories](https://github.com/sridharsaravanan1-0?tab=repositories)](https://github.com/sridharsaravanan1-0)
+- 👨‍💻 All of my projects are available at https://github.com/sridharsaravanan1-0
 
 - 📫 How to reach me **sridhartms10@gmail.com**
 
